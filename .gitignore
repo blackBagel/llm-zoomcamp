@@ -163,3 +163,4 @@ cython_debug/
 
 # Data files
 elastic_data/*
+02-open-source/ollama_files/*
