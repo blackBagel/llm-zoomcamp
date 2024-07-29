@@ -164,3 +164,10 @@ cython_debug/
 # Data files
 elastic_data/*
 02-open-source/ollama_files/*
+
+# DLT Files
+DLT_workshop/.dlt/*
+DLT_workshop/.lancedb/*
+DLT_workshop/rest_api
+DLT_workshop/requirements.txt
+DLT_workshop/rest_api_pipeline.py
